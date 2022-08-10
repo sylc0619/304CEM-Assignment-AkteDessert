@@ -1,0 +1,452 @@
+@charset "UTF-8";
+
+/* CSS Document */
+@media (min-width: 1921px) {
+}
+
+@media (min-width: 1680px) {
+    header .bg-flow-top-white {
+        top: 14px !important;
+    }
+}
+
+@media (min-width: 1441px) {
+}
+
+@media (max-width: 1440px) {
+    .footer-section .footer-top-section .sitemap-section > li {
+        width: calc((100% / 2) - 5px);
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1320px;
+    }
+
+    header .bg-flow-top-white {
+        background-position: -145px;
+        background-size: 17.5%;
+        top: 7px;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199px) {
+    header .bg-flow-bottom-white {
+        background-size: 50%;
+    }
+
+    header .bg-flow-top-white {
+        background-size: 15%;
+        top: 38px;
+    }
+
+    .footer-section .footer-bottom-section .list-payment > .list-inline-item {
+        width: calc((100% / 6) - 10px);
+    }
+
+    .faq-section .nav-pills .nav-item {
+        width: calc(100% / 4 - 12px);
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) {
+    header .navbar-nav .nav-link {
+        padding: 60px 25px 10px !important;
+    }
+
+    .footer-section .footer-top-section .list-opening-hours > li {
+        padding: 13px 0;
+    }
+
+    .teamslider-wrap {
+        height: 500px;
+    }
+
+    .team-img-inner {
+        margin-left: -200px;
+    }
+
+    .team-wrap {
+        bottom: 190px;
+        right: 42%;
+    }
+
+    .mobile-row {
+        min-width: 2000px;
+    }
+
+    .location-section .location-bottom-section .location-left-section .desktop-row > .col-12 > .location-image {
+        position: inherit;
+    }
+
+    .location-section .location-bottom-section .location-left-section .desktop-row > .col-12 > .list-location {
+        padding: 30px;
+    }
+
+    .contactus-section {
+        background-size: 150%;
+    }
+
+    .faq-section .nav-pills .nav-item > .nav-link {
+        padding: 10px 45px 30px;
+    }
+
+    .location-section .location-bottom-section .location-left-section .desktop-row > .col-12 {
+        border-bottom: none;
+    }
+
+    .login-section {
+        position: relative;
+        border-right: none;
+        border-bottom: 1px solid #d6d6d6;
+    }
+
+    .login-section:before {
+        top: auto;
+        bottom: -25px;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .product-detail-top-right-section .btn-default {
+        margin-left: 20px;
+    }
+
+    .header-mobile {
+        display: none;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+    header .akte-logo {
+        position: inherit;
+        top: inherit;
+        transform: inherit;
+    }
+
+    header .bg-flow-top-white {
+        top: 8px;
+    }
+
+    header.hide-nav-bar {
+        transform: translate(0, -101%);
+    }
+    header .header-top {
+        display: none;
+    }
+    .bg-white.bg-opacity {
+        background-color: rgb(255 255 255) !important;
+        box-shadow: 0 1px 5px rgb(0 0 0 / 15%);
+    }
+
+    .bg-flow-bottom-white {
+        display: none;
+    }
+
+    #back-to-top {
+        margin-top: 0 !important;
+    }
+
+    .cart-table-section .container {
+        padding: 0 30px;
+    }
+
+    .cart-table-section .cart-item [class^="col-"] {
+        height: auto;
+    }
+
+    .cart-table-section .cart-item [class^="col-"] > div {
+        position: static;
+        transform: none;
+    }
+
+    .cart-product-name {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+
+    .cart-product-name-sub {
+        font-size: 15px;
+    }
+
+    .cart-item .cart-cancel-section {
+        position: absolute !important;
+        right: 0;
+        top: 20px;
+    }
+
+    .cart-table-section .btn-cancel {
+        font-size: 15px;
+    }
+
+    .cookteam-section {
+        padding-top: 0px;
+    }
+
+    .teamslider-wrap {
+        height: 730px;
+    }
+
+    .team-img-inner {
+        margin-left: -120px;
+    }
+
+    .team-wrap {
+        bottom: 390px;
+        right: 50%;
+        margin-right: -50px;
+    }
+
+    .slider-comment-section .slider-comment .item {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .slider-comment-section .slider-comment .owl-nav .owl-prev {
+        left: -10px;
+        padding: 15px !important;
+    }
+
+    .slider-comment-section .slider-comment .owl-nav .owl-next {
+        right: -10px;
+        padding: 15px !important;
+    }
+
+    .main-title {
+        font-size: 36px;
+    }
+
+    .fa-quote-left {
+        font-size: 18px;
+    }
+
+    .counter-section .counter-value {
+        font-size: 57px;
+    }
+
+    .popup-ads-section {
+        display: none;
+    }
+
+    .product-content-section .product-content-nav a {
+        padding: 15px;
+    }
+
+    .product-detail-top-right-section .btn-default {
+        display: block;
+        margin: auto;
+    }
+
+    .faq-section .nav-pills .nav-item {
+        width: calc(100% / 3 - 12px);
+    }
+
+    [class^="breadcrumb-section"] {
+        padding: 110px 0px 10px;
+    }
+
+    .product-list-section .product-list .product-list-action > li:not(:last-child),
+    .suggest-product-section .product-list .product-list-action > li:not(:last-child) {
+        margin-right: 5px;
+    }
+    .product-list-section .product-list .product-list-action > li .btn-action,
+    .suggest-product-section .product-list .product-list-action > li .btn-action {
+        width: 35px;
+        height: 35px;
+    }
+    .product-list-section .product-list .product-list-action, 
+    .suggest-product-section .product-list .product-list-action {
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 600px) {
+    .team-img-inner {
+        margin-left: -144px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+    body {
+        font-size: 15px;
+    }
+
+    header .akte-logo {
+        height: 55px;
+    }
+
+    header .bg-flow-bottom-white {
+        background-size: 90%;
+    }
+
+    .bg-flow-top-brown {
+        background-size: 23%;
+    }
+
+    .cart-total-section .d-inline-block {
+        width: 100%;
+    }
+
+    .main-title {
+        font-size: 27px;
+    }
+
+    .counter-section img[src*="icon-counter"] {
+        max-width: 72px;
+    }
+
+    .aboutus-section .main-title {
+        font-size: 33px;
+    }
+
+    .product-content-section .product-content-nav li {
+        width: calc(100% / 3);
+        text-align: center;
+    }
+
+    .product-content-section .product-content-nav a {
+        padding: 10px 5px;
+    }
+
+    .col-xxs-center {
+        float: none !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        clear: both;
+    }
+
+    .product-content-section .product-content .tab-pane {
+        padding: 35px 15px;
+    }
+
+    .product-content-section .product-content .tab-pane .table-content tr > th,
+    .product-content-section .product-content .tab-pane .table-content tr > td {
+        width: 100%;
+        display: block;
+    }
+
+    .product-content-section .product-content .tab-pane .table-content tr > td {
+        border: none;
+    }
+
+    .product-content-section .product-content .tab-pane .table-content tr > th {
+        padding: 15px 12px 5px;
+    }
+
+    .sale-points-section .list-location > li {
+        width: calc(100% / 3 - 10px);
+    }
+
+    [class^="breadcrumb-section"] .breadcrumb-position {
+        font-size: 30px;
+    }
+
+    .checkout-form-right .checkout-section .checkout-form-right .table-checkout .cart-totals, .checkout-section .checkout-form-right .table-checkout tbody > tr > td:not(:first-child) {
+        line-height: 35px;
+        padding: 25px 0px;
+    }
+}
+
+@media (max-width: 500px) {
+    .faq-section .nav-pills .nav-item > .nav-link {
+        padding: 10px 21px 30px;
+    }
+}
+
+@media (max-width: 425px) {
+    body {
+        font-size: 14px;
+    }
+
+    .btn-default {
+        width: 100%;
+        margin-left: 0 !important;
+    }
+
+    footer .copyright {
+        font-size: 12px;
+    }
+
+    .footer-section .footer-top-section .sitemap-section > li {
+        width: 100%;
+    }
+
+    .footer-section .footer-bottom-section .list-payment > .list-inline-item {
+        width: calc((100% / 3) - 20px);
+        margin-right: 0;
+    }
+
+    .cart-product-name {
+        font-size: 15px;
+    }
+
+    .cart-product-name-sub {
+        font-size: 12px;
+    }
+
+    .team-img-inner {
+        margin-left: -94px;
+    }
+
+    .team-social ul li {
+        margin-left: 15px;
+    }
+
+    .product-page-section .pagination > .page-item .page-link {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width: 360px) {
+    body {
+        font-size: 13px;
+    }
+
+    .team-social ul li {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .location-section .location-bottom-section .location-left-section .desktop-row > .col-12 > .list-location {
+        padding: 20px 30px;
+    }
+
+    .team-wrap {
+        right: 40%;
+    }
+
+    .teamslider-wrap .col-12.col-md-7.col-lg-6 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .footer-section .footer-bottom-section .list-payment > .list-inline-item {
+        width: calc((100% / 6) - 50px);
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+}

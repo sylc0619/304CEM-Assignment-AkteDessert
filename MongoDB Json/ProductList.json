@@ -1,0 +1,342 @@
+[{
+    "_id": {
+        "$oid": "62e4c8c78da8261f0a749d2d"
+    },
+    "ProductName": "Mango Dessert",
+    "Category": "Dessert",
+    "Introduction": "<p>Make the most of mangoes with our best-rated recipes that put the exotic fruit centre stage. From syllabubs to crumble, there's a dessert for every taste.</p>",
+    "Description": "<p>Come summers and you'd see fresh mangoes thronging the fruit markets. There is nothing more satisfying than indulging in a pulpy, soft, juicy and luscious mango and that is why the king of fruits is truly a favourite across all age groups. During the sweltering summer heat, chilled and sweet mangoes come as quite a relief. From mango salad, mango desserts to juices or ever-so-delicious aamras, mango can be used to prepare various delicacies. They aren't just a fruit to binge on, but have also been a huge part of all our summer vacation memories. I still remember how during the childhood my mother used to slice dasheri aam or how my sibling and I used to gorge on juicy chausa aam in the peak afternoon post-lunch. Mango has been a part of many such childhood memories that all of us remember and continues to be an indispensable part of our summers.</p>",
+    "OriginalPrice": 15.00,
+    "Price": 12.00,
+    "Rating": 4,
+    "Image": "product-011-A.png", 
+    "Images": [
+        "product-011-A.png",
+        "product-011-B.png",
+        "product-011-C.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "d63338479d00526437c9c730"
+    },
+    "ProductName": "Strawberry Dessert",
+    "Category": "Dessert",
+    "Introduction": "<p>Strawberry gelatin and strawberries liven up each pretty slice of this lovely layered cake that’s made from a convenient boxed mix</p>",
+    "Description": "<p>Fresh strawberries are sweet any time of year. Think about it: You can serve up a big bowl of the sweet berries with whipped cream after your Mother's Day brunch or dip them in chocolate for a romantic Valentine's Day treat. No matter what the occasion, you can't go wrong with these strawberry desserts. Here, you'll find tons of recipes for strawberry cakes, classic pies, trifle recipes, and even some no-bake desserts that will make entertaining easy.</p>",
+    "OriginalPrice": 18.00,
+    "Price": 13.00,
+    "Rating": 4,
+    "Image": "product-012-A.png", 
+    "Images": [
+        "product-012-A.png",
+        "product-012-B.png",
+        "product-012-C.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "6fd6c47e8232e24e7d8df920"
+    },
+    "ProductName": "Lemon Dessert",
+    "Category": "Dessert",
+    "Introduction": "<p>Bake a stunning lemon sponge cake, a creamy citrus cheesecake or a zesty sorbet with our best-ever lemon dessert recipes, perfect for entertaining.</p>",
+    "Description": "<p>A friend and I often visit a local restaurant for lemon desserts and coffee. When they stopped carrying our favorite lemon supreme pie, I got busy in the kitchen and created this version, which we think tastes even better! The combination of the cream cheese and tart lemon is wonderful. —Jana Beckman, Wamego, Kansas.</p>",
+    "OriginalPrice": 15.00,
+    "Price": 11.00,
+    "Rating": 3,
+    "Image": "product-013-A.png", 
+    "Images": [
+        "product-013-A.png",
+        "product-013-B.png",
+        "product-013-C.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "3f2b59a8d6bc30dbe44712ed"
+    },
+    "ProductName": "Chestnut Cake",
+    "Category": "Cake",
+    "Introduction": "<p>This wheat-free chocolate cake with the earthy flavor of chestnuts is surprisingly light. The recipe is a slight adaptation from one in Alice Medrich’s baking book 'Flavor Flours.' The cake may be baked a day or two in advance of serving.</p>",
+    "Description": "<p>Everyone needs a flourless chocolate cake in their lives and this one is a very special one. It includes chestnuts and is simply a joy to eat. It feels so sinful to eat too, almost like it’s too rich but then the slice that you thought you wouldnt/couldn’t finish on your plate in front of you is gone and your eyeing the piece beside you.</p>",
+    "OriginalPrice": 330.00,
+    "Price": 268.00,
+    "Rating": 3,
+    "Image": "product-001.png", 
+    "Images": [
+        "product-001.png",
+        "product-001.png",
+        "product-001.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "e5a495671a2e0811951d5bcf"
+    },
+    "ProductName": "Triple Choco Mousse",
+    "Category": "Cake",
+    "Introduction": "<p>Make this classic chocolate dessert in minutes with just a few ingredients – light yet delicious. Perfect for fuss-free entertaining to end a rich meal.</p>",
+    "Description": "<p>These delightful mini chocolate mousse tarts from Urvashi Roe will add a layer of chocolate indulgence to your afternoon tea party. These are best served with Clipper Gold Tea - the hint of maltiness from the Assam used in the blend pairs gorgeously with chocolate.</p>",
+    "OriginalPrice": 330.00,
+    "Price": 328.00,
+    "Rating": 4,
+    "Image": "product-002.png",
+    "Images": [
+        "product-002.png",
+        "product-002.png",
+        "product-002.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "e84f3b409abd44b3dfc2c15b"
+    },
+    "ProductName": "Devil's Food Cake",
+    "Category": "Cake",
+    "Introduction": "<p>The most traditional of chocolate cakes, devil's food is marked by its dark color and dense texture. Try finishing the cake with Easy Vanilla Buttercream Frosting. We tinted the frosting this pink color with a few tablespoons of raspberry purée.</p>",
+    "Description": "<p>Devil's food cake is a moist, rich chocolate layer cake. It is considered a counterpart to the white or yellow angel food cake. Because of differing recipes and changing ingredient availability over the 20th century, it is difficult to precisely qualify what distinguishes devil's food from the more standard chocolate cake. However, it traditionally has more chocolate than a regular chocolate cake, making it darker in colour and with a heavier texture. The cake is usually paired with a rich chocolate frosting.</p>",
+    "OriginalPrice": 350.00,
+    "Price": 308.00,
+    "Rating": 5,
+    "Image": "product-003.png",
+    "Images": [
+        "product-003.png",
+        "product-003.png",
+        "product-003.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "51e47667d87b9daacfbc30ef"
+    },
+    "ProductName": "Strawberry Cream Cake",
+    "Category": "Cake",
+    "Introduction": "<p>Cake, cream, and berries combine in a treat that's twice as delectable as the sum of its parts. The buttery cake soaks up the strawberry juices, while the whipped cream adds an airy richness.</p>",
+    "Description": "<p>This classic cake is, of course, named after Queen Victoria, the only monarch to reign longer than the current Queen. It’s relatively easy to make but does have a few quirks: you need to get as much air into it as possible, and be mindful of its sensitivity to variations in heat. Know your oven well and invest in an oven thermometer!</p>",
+    "OriginalPrice": 322.00,
+    "Price": 288.00,
+    "Rating": 4,
+    "Image": "product-004.png",
+    "Images": [
+        "product-004.png",
+        "product-004.png",
+        "product-003.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "828b30858ce5742f354e1cbd"
+    },
+    "ProductName": "Fruit Crush",
+    "Category": "Cake",
+    "Introduction": "<p>Ur favourite dessert is no available in crush. Used by proffesional bakers. Can b use for making delicious cakes, or as topping on shakes , ice cream ,lassi , srikhand etc.</p>",
+    "Description": "<p>Fruit Crushes are great for preparing cocktail, mocktail, milkshakes, juices, speciality beverages and more. Also used as delightful topping for ice creams, cakes and other desserts. Mala’s fruit crushes feature luscious fruit pulp, remarkable fruit colour and superior taste.</p>",
+    "OriginalPrice": 264.00,
+    "Price": 238.00,
+    "Rating": 3,
+    "Image": "product-005.png",
+    "Images": [
+        "product-005.png",
+        "product-005.png",
+        "product-005.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "89444219598de48ff0edd68d"
+    },
+    "ProductName": "Mix Fruit Chiffon Cake",
+    "Category": "Cake",
+    "Introduction": "<p>Pillow-soft chiffon sponge cake is inspired by the flavor of the popular gingerbread and fruit cake, yet the cake is light and not cloyingly sweet. It is perfect to celebrate Christmas or any holiday events.</p>",
+    "Description": "<p>The cake isn’t as dark as the traditional gingerbread or gingerbread cookies we know because I did not use dark brown sugar and molasses in the recipe. I’m just a bit concern by using molasses the cake may not rise well as it is more on the acidic side. Perhaps I will experiment more in the future, but for now, I’m happy with this version.</p>",
+    "OriginalPrice": 294.00,
+    "Price": 258.00,
+    "Rating": 4,
+    "Image": "product-006.png",
+    "Images": [
+        "product-006.png",
+        "product-006.png",
+        "product-006.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "4803cc45f78f46104244a6be"
+    },
+    "ProductName": "Mont Blanc",
+    "Category": "Cake",
+    "Introduction": "<p>Mont Blanc cake (chestnut cream cake) is a signature French dessert made with crunchy meringue, whipped cream, and chestnut vermicelli. 'Curious' and elegant, this meringue cake makes every bite mouthwatering.</p>",
+    "Description": "<p>A Mont Blanc (or Mont-Blanc aux marrons, in Italian, Monte Bianco) is a dessert of sweetened chestnut purée in the form of vermicelli, topped with whipped cream. It was created in nineteenth-century Piedmont, in Italy. The name comes from Mont Blanc, as the dish resembles a snow-capped mountain.</p>",
+    "OriginalPrice": 370.00,
+    "Price": 348.00,
+    "Rating": 4,
+    "Image": "product-007.png",
+    "Images": [
+        "product-007.png",
+        "product-007.png",
+        "product-007.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "bce172c030632de51178d478"
+    },
+    "ProductName": "Marble Choco Banana",
+    "Category": "Cake",
+    "Introduction": "<p>Banana bread is a staple recipe in many kitchens. Even my friends who don't like to bake often tend to have a go-to banana bread recipe handy for when that bunch of bananas sitting on the kitchen counter go uneaten every now and again.</p>",
+    "Description": "<p>This chocolate marble banana Bundt cake is based off of this banana cake recipe. It’s a reader favorite and loved recipe because the cake is always moist, buttery, and full of banana flavor. Here we’re baking it in a Bundt pan and swirling it with real chocolate ganache so each bite has a delicious fudge-like ripple. We’ll have extra chocolate ganache for the topping, too!</p>",
+    "OriginalPrice": 325.00,
+    "Price": 298.00,
+    "Rating": 5,
+    "Image": "product-008.png",
+    "Images": [
+        "product-008.png",
+        "product-008.png",
+        "product-008.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "e101a5e74a17540299058b37"
+    },
+    "ProductName": "Raspberry Flourless Cake",
+    "Category": "Cake",
+    "Introduction": "<p>This gluten-free, flourless chocolate cake is dense, moist and bursting with of wood-fired flavor. The homemade raspberry sauce adds a light and tart finish for a sweet and smokin’ dessert.</p>",
+    "Description": "<p>This truffle-like flourless nutella raspberry cake is so incredible you’ll never miss the flour! Fudgy Flourless Brownies, Flourless Peanut Butter Cookies, and Flourless Mississippi Mud Brownies are delicious flour-free treats you are sure to love!</p>",
+    "OriginalPrice": 305.00,
+    "Price": 278.00,
+    "Rating": 5,
+    "Image": "product-009.png",
+    "Images": [
+        "product-009.png",
+        "product-009.png",
+        "product-009.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "285655a503fbd9e8d7670b68"
+    },
+    "ProductName": "Mocha Paradise",
+    "Category": "Cake",
+    "Introduction": "<p>Fluffy, soft, moist and oh-so-decadent chocolate cake made with Dutch Cacao and extra-virgin olive oil topped with a generous swirl of rich Mocha Coffee Buttercream. Everything made fresh in-house with no factory-made formulations!</p>",
+    "Description": "<p>Icebox cake is so named because it relies not on an oven, as most cakes do, but rather on an icebox. In other words, it is a terrific cake to make in the summertime. The hardest part is waiting for the cake to set up properly in the refrigerator overnight. While the cake chills, its cookie layers soften and meld with the surrounding whipped cream layers. You could use any kind of cookie that you like, though chocolate cookies with espresso-tinged whipped cream make for a fine mocha combination.</p>",
+    "OriginalPrice": 321.00,
+    "Price": 298.00,
+    "Rating": 3,
+    "Image": "product-010.png",
+    "Images": [
+        "product-010.png",
+        "product-010.png",
+        "product-010.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "7a633d7a700c29f989b95fc0"
+    },
+    "ProductName": "Matcha Génoise Cake",
+    "Category": "Cake",
+    "Introduction": "<p>This light and fluffy matcha genoise cake is filled with a whipped white chocolate filling and topped with a matcha white chocolate ganache.</p>",
+    "Description": "<p>Uhmm, baking grade matcha? That exists? I can’t say I’m the most educated person on green tea varieties, I just know that I like it. Upon reading their green tea guides, I feel more informed.  What a great resource! I decided to whip up a very special treat – this Matcha-Almond Genoise Layer Cake.</p>",
+    "OriginalPrice": 354.00,
+    "Price": 318.00,
+    "Rating": 5,
+    "Image": "product-011.png",
+    "Images": [
+        "product-011.png",
+        "product-011.png",
+        "product-011.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "951da24f8427285990ebf449"
+    },
+    "ProductName": "The Gift",
+    "Category": "Cake",
+    "Introduction": "<p>These 6-inch gifting cakes are topped with a swoop of silky frosting. The recipe (which makes three cakes) comes from Minneapolis blogger Sarah Kieffer's cookbook Baking for the Holidays.</p>",
+    "Description": "<p>We take a lot of pride, time and effort to be the first in Hong Kong to create sugarart on cakes. Our handcrafted sugarart are all made of pure sugar and spring water together with FDA edible approvals. Please note that a lot of our clients love to collect our sugar flowers for keep sakes;  and in which it does keep for a long time. Best that it is kept in a cool environment but not in refrigeration. However, should you choose to taste them, please note there will be wire stamen stems inside to connect our sugarart.</p>",
+    "OriginalPrice": 354.00,
+    "Price": 268.00,
+    "Rating": 4,
+    "Image": "product-012.png",
+    "Images": [
+        "product-012.png",
+        "product-012.png",
+        "product-012.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "1aa9413c4bdc53b8cce81261"
+    },
+    "ProductName": "Hash Browns",
+    "Category": "Bready",
+    "Introduction": "<p>What's the secret to the crispiest hash browns ever? Press out as much extra moisture as possible after grating and before frying. Here's how you can make them perfectly browned and extra crispy, every time.</p>",
+    "Description": "<p>Hash browns, also spelled hashed browns, are a popular American and British breakfast food, consisting of finely chopped potatoes that have been fried until browned. Hash browns first started appearing on breakfast menus in New York City in the 1890s. Hash browns are a staple breakfast food at diners in North America, where they are often fried on a large common cooktop or grill.[1] However, the similar Swiss dish Rösti predates this.</p>",
+    "OriginalPrice": 15.00,
+    "Price": 8.00,
+    "Rating": 3,
+    "Image": "product-013.png",
+    "Images": [
+        "product-013.png",
+        "product-013.png",
+        "product-013.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "9afadf581d608fbeb884d7af"
+    },
+    "ProductName": "Curry Bread",
+    "Category": "Bready",
+    "Introduction": "<p>Curry bread is a popular japanese snack recipe. It is also called as curry pan or kare pan in which spicy curry is filled inside a soft yeasted bread dough and then coated in breadcrumbs and fried. It is similar to bunny chow or curry puff.</p>",
+    "Description": "<p>Curry bread is a popular Japanese food. It consists of Japanese curry wrapped in a piece of dough, which is then coated in bread crumbs and deep fried. On occasion it is baked instead of deep fried, but deep frying is the most common method of cooking. Curry bread is usually found in bakeries and convenience stores.</p>",
+    "OriginalPrice": 15.00,
+    "Price": 8.00,
+    "Rating": 4,
+    "Image": "product-014.png",
+    "Images": [
+        "product-014.png",
+        "product-014.png",
+        "product-014.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "df486f0c53ccf4f1eacbdb40"
+    },
+    "ProductName": "Salad Sandwich",
+    "Category": "Bready",
+    "Introduction": "<p>This salad sandwich with herb mayo is the perfect quick and easy lunch recipe. Use any fresh vegetables you have to make a delicious, filling meal.</p>",
+    "Description": "<p>Ham, egg, chicken and tuna salad sandwiches—all typically prepared with mayo, celery and mustard—have been around for decades. To upgrade this standard lunch, we like to add lots of fresh herbs like parsley, dill and chives, and top the sandwiches with peppery arugula, thinly sliced tomatoes and creamy avocado. Anchovies are great in egg salad, while black olive dressing makes for a delicious Italian-style tuna salad, and fresh corn provides sweetness to classic chicken salad. Find these recipes and more from Food & Wine's guide to salad sandwiches.</p>",
+    "OriginalPrice": 12.00,
+    "Price": 10.00,
+    "Rating": 5,
+    "Image": "product-015.png",
+    "Images": [
+        "product-015.png",
+        "product-015.png",
+        "product-015.png"
+    ]
+},
+{
+    "_id": {
+        "$oid": "fdd3afc928536d62ec3aa38d"
+    },
+    "ProductName": "Sausage Buns",
+    "Category": "Bready",
+    "Introduction": "<p>Classic Hong Kong-style bread, sausage wrapped with very light and airy bread. With a Tongzhong method, the bread is extra soft.</p>",
+    "Description": "<p>Sausage Buns are great for sub sandwiches and, of course, Wisconsin’s famous bratwursts. They also make great soft pretzel hot dog buns. Try them toasted! Non-GMO, vegan, kosher, and produced in a nut-free facility.</p>",
+    "OriginalPrice": 10.00,
+    "Price": 6.00,
+    "Rating": 5,
+    "Image": "product-016.png",
+    "Images": [
+        "product-016.png",
+        "product-016.png",
+        "product-016.png"
+    ]
+}]
